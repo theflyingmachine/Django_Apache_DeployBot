@@ -28,7 +28,7 @@ And of course JumpSpark itself is open source with a public repository on GitHub
 get JumpSpark script and get started.
 
 ```sh
-$ wget https://github.com/theflyingmachine/JumpSpark.git
+$ wget https://raw.githubusercontent.com/theflyingmachine/JumpSpark/master/JumpSpark.sh
 $ chmod 755 JumpSpark.sh
 $ ./JumpSpark.sh
 ```
