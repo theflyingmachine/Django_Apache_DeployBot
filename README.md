@@ -1,7 +1,6 @@
 # JumpSpark
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/120px-Gnu-bash-logo.svg.png)](https://nodesource.com/products/nsolid)
-
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/120px-Gnu-bash-logo.svg.png)]
 [![N|Solid](https://cyberboy.in/Innovo%20-%20Innovative%20Parallax%20Coming%20Soon%20Template_files/logo.png)](https://cyberboy.in)
 
 JumpSpark is a shell script which automates first time deployment of Django project on a Linux server via a git repo.
@@ -17,10 +16,10 @@ JumpSpark is a shell script which automates first time deployment of Django proj
 
 JumpSpark uses a number of tools to work properly:
 
-* [BASH] - HTML enhanced for web apps!
-* [Git] - awesome web-based text editor
-* [Apache2] - Markdown parser done right. Fast and easy to extend.
-* [Python] - great UI boilerplate for modern web apps
+* [BASH] - Yes, we are a bash script
+* [Git] - We need this to pull project from repo
+* [Apache2] - We use apache2 webserver how server http request
+* [Python] - yes, python3 is our favourite
 
 And of course JumpSpark itself is open source with a public repository on GitHub.
 
